@@ -1,4 +1,4 @@
-
+"use strict";
 var louis = {};
 louis.hide = function (sel) {
   louis.hideElements(louis.getElements(sel));
